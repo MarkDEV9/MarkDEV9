@@ -52,6 +52,7 @@
 
 #
 
+[![Scandinavian UI Library](https://uibin.orqan.xyz/api/card?id=8fa9c012-e507-44f1-8377-5eed7327e319)](https://uibin.orqan.xyz/library/8fa9c012-e507-44f1-8377-5eed7327e319)
 ![GitHub Contributions](https://github-readme-activity-graph.vercel.app/graph?username=MarkDEV9&theme=github)
 ![GitHub Contributions](https://ghchart.rshah.org/MarkDEV9)
 
